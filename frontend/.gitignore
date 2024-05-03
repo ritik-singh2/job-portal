@@ -1,0 +1,12 @@
+# Ignore compiled binaries
+*.exe
+*.o
+
+# Ignore log files
+*.log
+
+# Exclude build artifacts
+/build/
+/dist/
+
+/node_modules/
